@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
+    </url>
+    <url>
+        <loc>Nonegameplay/ui/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegameplay/ui/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/gameplay/ui/"/>
+    </url>
+    <url>
+        <loc>Noneinstallation/about1/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneinstallation/about1/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/installation/about1/"/>
+    </url>
+    <url>
+        <loc>Nonerules/about2/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonerules/about2/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/rules/about2/"/>
+    </url>
+    <url>
+        <loc>Nonede/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonede/gameplay/ui/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/gameplay/ui/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonegameplay/ui/"/>
+    </url>
+    <url>
+        <loc>Nonede/installation/about1/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/installation/about1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneinstallation/about1/"/>
+    </url>
+    <url>
+        <loc>Nonede/rules/about2/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/rules/about2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonerules/about2/"/>
+    </url>
+</urlset>
